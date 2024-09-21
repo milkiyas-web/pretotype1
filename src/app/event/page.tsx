@@ -110,7 +110,7 @@ export default function Component() {
                         <p className="mt-4 text-gray-500 md:text-xl dark:text-gray-400">
                             Dandilion Fest is a celebration of gaming culture, bringing together enthusiasts, developers, and
                             casual players for an unforgettable experience. Featuring game demos, exciting tournaments, insightful
-                            workshops, and live entertainment, there's something for everyone at our festival.
+                            workshops, and live entertainment, theres something for everyone at our festival.
                         </p>
                         <div className="mt-8 grid gap-8 md:grid-cols-2 lg:grid-cols-3">
                             <Card>

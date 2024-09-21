@@ -1,7 +1,6 @@
 "use client"
 import { useState, useEffect } from 'react'
 import { motion, AnimatePresence } from 'framer-motion'
-import { ChevronDown, CreditCard } from 'lucide-react'
 
 import { Button } from "@/components/ui/button"
 import { Input } from "@/components/ui/input"
@@ -16,7 +15,7 @@ import {
 import img1 from "./images/img1.jpg";
 import img2 from "./images/img2.jpg";
 import img3 from "./images/img3.jpg";
-import img4 from "./images/img4.jpg";
+
 import tshirt from "./images/tshirt.png";
 const products = [
     { name: "Quirky Mug", price: 19.99, image: img3.src, description: "Start your day with a smile using our uniquely designed mug." },
